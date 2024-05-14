@@ -3,7 +3,7 @@
 
 int main()
 {
-    //DeclaraÁ„o de variaveis
+    //Declara√ß√£o de variaveis
     int num1 , num2 , op;
 
 
@@ -17,15 +17,15 @@ int main()
     op = num1 + num2;
     printf("O resultado da soma e: %d\n" , op);
 
-    //subtraÁ„o
+    //subtra√ß√£o
     op = num1 - num2;
     printf("O resultado da subtracao e : %d\n" , op);
 
-    //multiplicaÁ„o
+    //multiplica√ß√£o
     op = num1 * num2;
     printf("O resultado da multiplicacao e : %d\n" , op);
 
-    //divis„o
+    //divis√£o
     op = num1/num2;
     printf("O resultado da divisao e: %d\n" , op);
 
